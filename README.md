@@ -56,8 +56,10 @@ Algorithms tested:
 - K-Means
 - Hierarchical
 - DBSCAN
+  
 Final selection:
 👉 K-Means (K=5)
+
 ---
 
 ## 🤖 Machine Learning
