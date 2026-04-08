@@ -1,4 +1,4 @@
-# Ecommerce-customer-segmentation-clustering-ml
+# ecommerce-customer-segmentation-clustering-ml
 End-to-End customer segmentation and prediction using RFM, Clustering, Power BI and machine Learning
 
 # 🛒 E-commerce Customer Segmentation & Prediction
@@ -107,3 +107,9 @@ Power BI dashboards include:
 - Churn prediction
 - Recommendation system
 - Real-time dashboard refresh
+
+## 👤 Author
+Vishal Ramane
+Data Analyst
+Email ID : vishalramane.work@gmail.com
+LinkedIn : https://www.linkedin.com/in/vishal-ramane
