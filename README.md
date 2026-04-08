@@ -10,9 +10,12 @@ It demonstrates a complete end-to-end data analytics workflow.
 ---
 
 ## 🎯 Business Objective
-- Identify high-value customers
+- Segment customers based on purchasing behavior
+- Identify high-value and at-risk customers
 - Enable targeted marketing
-- Improve customer retention and revenue
+- Visualize insights for stakeholders
+- Predict customer value using Machine Learning
+
 ---
 
 ## 📊 Dataset
