@@ -105,6 +105,8 @@ Power BI dashboards include:
 - Recommendation system
 - Real-time dashboard refresh
 
+---
+
 ## 👤 Author
 Vishal Ramane
 Data Analyst
